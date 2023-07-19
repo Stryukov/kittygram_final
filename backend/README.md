@@ -49,3 +49,15 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+
+## Tech Stack
+
+**Client:** React
+
+**Server:** Django, DRF
+
+
+## Authors
+
+- [@stryukov](https://www.github.com/stryukov)
+
