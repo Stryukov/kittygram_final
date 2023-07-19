@@ -24,3 +24,14 @@ dockerhub_username: ваш_логин_на_докерхабе
 - Проект Kittygram доступен по доменному имени, указанному в `tests.yml`.
 - Пуш в ветку main запускает тестирование и деплой Kittygram, а после успешного деплоя вам приходит сообщение в телеграм.
 - В корне проекта есть файл `kittygram_workflow.yml`.
+
+## Tech Stack
+
+**Client:** React
+
+**Server:** Django, DRF
+
+
+## Authors
+
+- [@stryukov](https://www.github.com/stryukov)
