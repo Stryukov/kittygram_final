@@ -60,4 +60,3 @@ python3 manage.py runserver
 ## Authors
 
 - [@stryukov](https://www.github.com/stryukov)
-
